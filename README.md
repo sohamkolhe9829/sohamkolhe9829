@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Kolhe</h1>
 <h3 align="center">A passionate Full-Stack Cross-Platform Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB & Web services.**
+- 🌱 I’m currently learning **Kotlin, Swift & Backend (Node.js, MongoDB).**
 
 - 👨‍💻 All of my projects are available at [sohamkolhe9829.github.io](sohamkolhe9829.github.io)
 
