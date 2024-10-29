@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sohamkolhe9829@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/p1ml5k61rn3lksrzteqks/soham-kolhe-cv-1.pdf?rlkey=caix5r37cx0155noos1tudlqz&dl=1](https://www.dropbox.com/scl/fi/p1ml5k61rn3lksrzteqks/soham-kolhe-cv-1.pdf?rlkey=caix5r37cx0155noos1tudlqz&dl=1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VmxDWH8NJidQvDU12QRmK0O9uRaI-FSD/view)
 
 ### Connect with me:
 <div id="badges">
@@ -35,6 +35,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,js,nodejs,mongodb&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,js,nodejs,mongodb,android&perline=6)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamkolhe9829&show_icons=true&locale=en&layout=compact" alt="sohamkolhe9829" /></p>
