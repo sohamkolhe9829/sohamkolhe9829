@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Swift & Backend (Node.js, MongoDB).**
 
-- 👨‍💻 All of my projects are available at [sohamkolhe9829.github.io](sohamkolhe9829.github.io)
+- 👨‍💻 All of my projects are available at [sohamkolhe9829.github.io](https://sohamkolhe9829.github.io/)
 
 - 💬 Ask me about **Flutter**
 
