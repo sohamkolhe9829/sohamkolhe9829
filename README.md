@@ -35,6 +35,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,firebase,github,git,postman,figma,xd,js,nodejs,mongodb,androidstudio,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,firebase,github,git,postman,figma,xd,js,nodejs,mongodb,androidstudio,xcode,&perline=6)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamkolhe9829&show_icons=true&locale=en&layout=compact" alt="sohamkolhe9829" /></p>
