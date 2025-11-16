@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Kolhe</h1>
 <h3 align="center">A passionate Full-Stack Cross-Platform Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Kotlin, Swift & Backend (Node.js, MongoDB).**
+- 🌱 I’m currently learning **Swift, Swift UI & UiKit.**
 
 - 👨‍💻 All of my projects are available at [sohamkolhe9829.github.io](https://sohamkolhe9829.github.io/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sohamkolhe9829@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VmxDWH8NJidQvDU12QRmK0O9uRaI-FSD/view)
+- 📄 Know about my experiences [Resume](https://sohamkolhe9829.github.io/Soham-kolhe-resume.pdf)
 
 ### Connect with me:
 <div id="badges">
